@@ -1,0 +1,16 @@
+
+r
+java:S1192"\Define a constant instead of duplicating this literal "ìŒì•… í”Œë ˆì´ì–´ ë³¼ë¥¨:" 3 times.(§¤·ä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™ü±
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ì¡ãã
+N
+java:S1854 "8Remove this useless assignment to local variable "isOn".(Âƒ’ 
+@	java:S106"+Replace this use of System.out by a logger.(Å·ã
+@	java:S106"+Replace this use of System.out by a logger.(§¤·ä
+@	java:S106"+Replace this use of System.out by a logger.(§¤·ä
+@	java:S106"+Replace this use of System.out by a logger.(§¤·ä
+@	java:S106"+Replace this use of System.out by a logger.(¯œ˜Ù
+@	java:S106"+Replace this use of System.out by a logger.(æú÷…
+@	java:S106"+Replace this use of System.out by a logger.(ïĞ·İ
+E	java:S106!"+Replace this use of System.out by a logger.(Ğ•Úúıÿÿÿÿ
