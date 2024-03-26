@@ -1,0 +1,7 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(¶Î)
+Z
+java:S1854"?Remove this useless assignment to local variable "publicClass".(¢‘âØúÿÿÿÿ
+K
+java:S1481"0Remove this unused "publicClass" local variable.(¢‘âØúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¦Åˆüÿÿÿÿ

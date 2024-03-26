@@ -1,0 +1,8 @@
+
+r
+java:S1104"WMake publicField a static final constant or non-public and provide accessors if needed.(í‚²—ûÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(ø¬å“
+E	java:S106"+Replace this use of System.out by a logger.(Çè½¢þÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ˆ£íØ
+E	java:S106"+Replace this use of System.out by a logger.(îÒ“Ýþÿÿÿÿ

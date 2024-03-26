@@ -1,0 +1,17 @@
+
+O
+java:S1854":Remove this useless assignment to local variable "class2".(ö¯å
+P
+java:S1854":Remove this useless assignment to local variable "class1".(øê‘ÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "publicClass".(¢‘âØúÿÿÿÿ
+K
+java:S1481"0Remove this unused "publicClass" local variable.(¢‘âØúÿÿÿÿ
+A
+java:S1481"+Remove this unused "class1" local variable.(øê‘ÿ
+@
+java:S1481"+Remove this unused "class2" local variable.(ö¯å
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ë®Ú
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(îÔòø

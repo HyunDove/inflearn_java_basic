@@ -1,0 +1,9 @@
+
+S
+java:S1854	"8Remove this useless assignment to local variable "user".(Î€Ôµøÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "data".(…ÀØÝúÿÿÿÿ
+D
+java:S1481")Remove this unused "data" local variable.(…ÀØÝúÿÿÿÿ
+D
+java:S1481	")Remove this unused "user" local variable.(Î€Ôµøÿÿÿÿ
